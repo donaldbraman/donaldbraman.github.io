@@ -8,7 +8,7 @@ I have written a fair bit about the role the criminal justice system plays in di
 I am a graduate of Yale Law School and the Yale Graduate School (Anthropology), where I worked with families of prisoners and authored Doing Time on the Outside, a study of the impact of mass incarceration on families and communities in the District of Columbia.  
 
 You can find me on:
- - <a rel="me" href="https://mastodon.world/@donaldbraman">mastodon</a>
+ - <a rel="me" href="https://mastodon.world/@donaldbraman">Mastodon</a>
  - [LinkedIn](https://www.linkedin.com/in/donaldbraman/)
  - [Google Scholar](https://scholar.google.com/citations?user=kyF4Gt0AAAAJ)
  - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=286206)

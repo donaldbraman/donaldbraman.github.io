@@ -5,7 +5,7 @@ I teach courses on criminal justice reform, criminal law, evidence, policing, ev
 
 I have written a fair bit about the role the criminal justice system plays in disassembling families and communities, contributing to the conditions that give rise to the social disorder that the criminal justice system purports to reduce. I've also written a bit about climate change, social cognition, and cultural constraints on public policy. 
 
-I am a graduate of Yale Law School and the Yale Graduate School (Anthropology), where I worked with families of prisoners and authored Doing Time on the Outside, a study of the impact of mass incarceration on families and communities in the District of Columbia.  
+I am a graduate of Yale Law School and the Yale Graduate School (Anthropology), where I worked with families of prisoners and authored [Doing Time on the Outside](https://www.press.umich.edu/310309/doing_time_on_the_outside), a study of the impact of mass incarceration on families and communities in the District of Columbia.  
 
 You can find me on:
  - <a rel="me" href="https://mastodon.world/@donaldbraman">Mastodon</a>

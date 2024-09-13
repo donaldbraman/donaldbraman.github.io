@@ -1,7 +1,7 @@
 # Donald Braman 
 I am an Associate Professor at the [George Washington University Law School](https://www.law.gwu.edu/).
 
-[You can find my CV here](https://donaldbraman.github.io/markdown-cv/). 
+[You can find my CV here](https://donaldbraman.github.io/cv/). 
 
 I teach courses on criminal justice reform, criminal law, evidence, policing, evidence-based policymaking, and data science and law.  I am Director of Science and Policy at the [Justice Innovation Lab](https://justiceinnovationlab.org), which helps jurisdictions reduce inequality though criminal justice reform. I am a friend and supporter of the [DC Justice Lab](https://dcjusticelab.org), and I cheer on the amazing work of Patrice Sultan and her staff.  I also helped to spin up [The Lab @ DC](https://thelabprojects.dc.gov), which provides assistance and support to DC Agencies seeking to increase equitable outcomes. Although I'm less involved these days, I still occassionally help out, particularly in the areas of public safety and reentry. 
 
